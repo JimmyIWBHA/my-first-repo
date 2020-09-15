@@ -1,28 +1,17 @@
-# This is a large heading
+# Jimmy Tu
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+## Sport
 
-- This is
-- an unordered
-- list
+- Baskatball
+- Golf
+- Baseball
 
-1. This is
-2. an ordered
-3. list
+## Food
 
-Here is `some code` in the middle of a sentence.
+1. Burger
+2. Chinese Food
+3. Thai Food
 
-```
-This is
-a block
-of code
-```
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
